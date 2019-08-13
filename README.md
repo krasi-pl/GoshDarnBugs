@@ -84,3 +84,6 @@ as the name is changed.
  0. You just DO WHAT THE FUCK YOU WANT TO.
 ```
 
+## Credits
+
+You!
