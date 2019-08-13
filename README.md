@@ -1,4 +1,4 @@
-# Gosh darn bugs!
+# Gosh Darn Bugs!
 
 GoshDarnBugs is a collection of... you guessed it, bugs.
 
