@@ -22,7 +22,8 @@ final class BugDemonstration: Identifiable {
 
 struct ContentView: View {
     let demonstrations: [BugDemonstration] = [
-        .init(FB6525020.self)
+        .init(FB6525020.self),
+        .init(FB6588325.self)
     ]
 
     var body: some View {
