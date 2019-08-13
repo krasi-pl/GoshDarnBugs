@@ -1,6 +1,12 @@
 # Gosh Darn Bugs!
 
-GoshDarnBugs is a collection of... you guessed it, bugs.
+GoshDarnBugs is a collection of... you guessed it, bugs. 
+
+## Usage
+
+- Clone the repository.
+- Open `GoshDarnBugs.xcodeproj` 
+- Click **Run**.
 
 ## Why?
 
