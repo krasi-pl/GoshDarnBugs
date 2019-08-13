@@ -8,13 +8,15 @@ SwiftUI is an absolutely fantastic framework, a culmination of several years' wo
 
 Working with SwiftUI feels like standing on the bleeding edge. It's a new, beautiful, inspired way of writing code - and feels like a clean slate in terms of typical usage and best practices. A lot of us are trying to find our footing within this new framework, and there is certainly a lot confusing. However, it is sometimes frustrating to find that what *seems* confusing and misunderstood may simply belie a bug in the beta.
 
-While SwiftUIX attempts to fill the gaps of SwiftUI in terms of available APIs, GoshDarnBugs attempts to offer an exhaustive, demonstrable collection of SwiftUI bugs (up-to-date with the latest Xcode beta).
+While SwiftUIX attempts to fill the gaps of SwiftUI in terms of available APIs, GoshDarnBugs attempts to offer an exhaustive, demonstrable collection of SwiftUI bugs in the latest beta. This is done in the hope of serving as a useful, centralized point of reference for all those experimenting/building with SwiftUI.
 
 ## Contributing
 
-GoshDarnBugs is designed to be extremely easy to contribute to. The prerequisites are as follows: 
+GoshDarnBugs as a project is only as useful as its strength in contributors, and thus is designed to be painless to contribute to.
 
-- A Feedback Assistant number for your feedback report (please file bug reports!).
+The prerequisites are as follows: 
+
+- A Feedback Assistant number for your bug report (please, please, please file bug reports!).
 - A `View` demonstrating your bug, that can be initialized simply using `.init()`.
 
 The steps to contribute are as follows: 
