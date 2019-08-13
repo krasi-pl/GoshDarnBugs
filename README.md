@@ -47,7 +47,7 @@ final class BugDemonstration: Identifiable {
 }
 ```
 
-They're just simple utilities that allow for `ContentView`'s body, like so:
+... they're just simple helpers that allow for `ContentView`'s body, like so:
 
 ```swift
     var body: some View {
@@ -62,4 +62,25 @@ They're just simple utilities that allow for `ContentView`'s body, like so:
     }
 ```
 
-Dynamically creating a navigatable list of all available bug demonstrations.
+... thus dynamically creating a navigatable list of all available bug demonstrations.
+
+## License
+
+GoshDarnBugs is licensed under WTFPL, Version 2:
+
+```
+           DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
+                   Version 2, December 2004
+ 
+Copyright (C) 2004 Sam Hocevar <sam@hocevar.net>
+
+Everyone is permitted to copy and distribute verbatim or modified
+copies of this license document, and changing it is allowed as long
+as the name is changed.
+ 
+           DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
+  TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
+
+ 0. You just DO WHAT THE FUCK YOU WANT TO.
+```
+
