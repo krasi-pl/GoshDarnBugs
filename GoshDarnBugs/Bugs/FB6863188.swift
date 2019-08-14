@@ -23,7 +23,7 @@ struct FB6863188: BugDemonstrationView {
   
   func cellForItemAt(_ index: Int) -> some View {
     return
-      NavigationLink(destination: ContentView()) {
+      NavigationLink(destination: Text("Bug")) {
         VStack{
           Rectangle()
             .foregroundColor(colors[index])
